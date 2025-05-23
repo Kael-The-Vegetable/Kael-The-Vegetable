@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+> [!NOTE]
+> I am an indie game developer which recently graduated from NAIT's [DMIT Game Programming Concentration](https://www.nait.ca/programs/dmit-game-programming)!
+
 <!--
 **Kael-The-Vegetable/Kael-The-Vegetable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
